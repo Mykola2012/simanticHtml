@@ -1,0 +1,28 @@
+h1 {
+    color: cyan;
+}
+
+p {
+    color: blueviolet;
+    /* color: rgb(255, 0, 0; */
+    /* color: #256000; */
+    /* color: rgba(255, 0, 255, alpha); */
+    font-size: 24px;
+    text-align: left;
+    text-indent: 1em;
+    border: 5px solid red;
+}
+
+a {
+    /* text-decoration: none; */
+    text-decoration: overline dashed red 5px;
+    /* text-decoration-line: overline underline line-through;
+    text-decoration-style: dotted;
+    text-decoration-color: blueviolet;
+    text-decoration-thickness: 3px; */
+}
+
+button {
+    text-transform: capitalize;
+}
+
